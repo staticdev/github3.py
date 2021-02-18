@@ -26,37 +26,6 @@ Dependencies
 Contributing
 ------------
 
-Please read the `CONTRIBUTING`_ document.
-
-.. _CONTRIBUTING: https://github.com/staticdev/github4.py/blob/master/CONTRIBUTING.rst
-
-Testing
-~~~~~~~
-
-You can run either ``pip install -r dev-requirements.txt`` to install the
-following before testing or simply ``make test-deps``. It is suggested you do
-this in a virtual environment. These need to be installed for the tests to run.
-
-- betamax_
-- coverage_ by Ned Batchelder
-
-.. _betamax: https://github.com/sigmavirus24/betamax
-.. _coverage: http://nedbatchelder.com/code/coverage/
-
-Build status
-~~~~~~~~~~~~
-
-You can find `master` build statuses for different environments.
-
-- Github_
-- appveyor_
-
-.. _Github: https://github.com/staticdev/github4.py/actions
-.. _appveyor: https://ci.appveyor.com/project/sigmavirus24/github3-py/branch/master
-
-Contributing
-------------
-
 Contributions are very welcome.
 To learn more, see the `Contributor Guide`_.
 
