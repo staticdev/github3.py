@@ -16,6 +16,9 @@ classifiers = [
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
 ]
+packages = [
+    { include = "github4", from = "src" },
+]
 
 [tool.poetry.urls]
 Changelog = "https://github.com/staticdev/github4.py/releases"
