@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "github4"
+name = "github4.py"
 version = "1.4.0"
 description = "Python wrapper for the GitHub API"
 authors = ["Thiago Carvalho D'Ávila <thiagocavila@gmail.com>"]
@@ -7,7 +7,7 @@ license = "MIT"
 readme = "README.rst"
 homepage = "https://github.com/staticdev/github4.py"
 repository = "https://github.com/staticdev/github4.py"
-documentation = "https://github4.py.readthedocs.io"
+documentation = "https://github4.readthedocs.io"
 classifiers = [
     "Intended Audience :: Developers",
     "Programming Language :: Python",
