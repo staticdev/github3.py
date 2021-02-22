@@ -35,7 +35,7 @@ importlib-metadata = {version = "^3.4.0", python = "<3.8"}
 pytest = "^6.2.2"
 coverage = {extras = ["toml"], version = "^5.4"}
 safety = "^1.10.3"
-mypy = "^0.800"
+mypy = "^0.812"
 typeguard = "^2.11.1"
 betamax = "^0.8.1"
 betamax-matchers = "^0.4.0"
