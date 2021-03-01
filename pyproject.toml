@@ -33,7 +33,7 @@ importlib-metadata = {version = "^3.4.0", python = "<3.8"}
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.2"
-coverage = {extras = ["toml"], version = "^5.4"}
+coverage = {extras = ["toml"], version = "^5.5"}
 safety = "^1.10.3"
 mypy = "^0.800"
 typeguard = "^2.11.1"
